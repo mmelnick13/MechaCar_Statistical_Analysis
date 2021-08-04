@@ -3,11 +3,11 @@
 ## Linear Regression to Predict MPG
 ### Linear Regression 
 
-![Chart1](Linear Regression.PNG)
+![Chart1](LinearRegression.PNG)
 
 ### Perform Summary
 
-![Chart2](Perform Summary.PNG)
+![Chart2](PerformSummary.PNG)
 
 ### Analysis
 
@@ -16,11 +16,11 @@ The variables that provided a non-random amount of variance to the mpg values in
 
 ### Total Summary
 
-![Chart3](Total Summary.PNG)
+![Chart3](TotalSummary.PNG)
 
 ### Lot Summary
 
-![Chart4](Lot Summary.PNG)
+![Chart4](LotSummary.PNG)
 
 ### Analysis
 
@@ -30,11 +30,11 @@ The design specifications for the MechaCar suspension coils dictate that the var
 
 ### One Sample T Test
 
-![Chart5](Sample T Test.PNG)
+![Chart5](SampleTTest.PNG)
 
 ### Three Sample T Tests
 
-![Chart6]( T Tests.PNG)
+![Chart6]( TTests.PNG)
 
 ### Analysis
 
